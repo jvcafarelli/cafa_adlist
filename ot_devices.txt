@@ -2,10 +2,9 @@
 ! Title: ot_devices
 !
 ! Source name: ot_devices
-! Source: https://github.com/jvcafarelli/cafa_adlist/ot_devices.txt
+! Source: https://raw.githubusercontent.com/jvcafarelli/cafa_adlist/main/ot_devices.txt
 !
-! Title: hostskids2023
+! Title: ot_devices
 
 # ot_devices
-nintendo.net$
-0.0.0.0 *.*
+^nintendo.net$
