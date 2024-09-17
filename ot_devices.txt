@@ -16,8 +16,13 @@
 0.0.0.0 browser.events.data.msn.com
 0.0.0.0 pinterest.com
 0.0.0.0 es.pinterest.com
-0.0.0.0 alphonso.tv
+0.0.0.0 ^alphonso.tv
 0.0.0.0 eu-acr128.alphonso.tv
 0.0.0.0 eu-prov2.alphonso.tv
 0.0.0.0 eu-bl-server.alphonso.tv
-0.0.0.0 ^.alphonso.tv
+0.0.0.0 ^prod.service.minerva.devices.a2z.com
+0.0.0.0 ^device.marketingcloudapis.com
+0.0.0.0 spocs.getpocket.com
+0.0.0.0 ^xtracloud.net
+0.0.0.0 ^dynatrace.com
+0.0.0.0 in.appcenter.ms
