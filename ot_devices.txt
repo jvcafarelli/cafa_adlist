@@ -13,3 +13,5 @@
 0.0.0.0 confiant.msn.com
 0.0.0.0 m365cdn.nel.measure.office.net
 0.0.0.0 browser.events.data.msn.com
+0.0.0.0 pinterest.com
+0.0.0.0 es.pinterest.com
