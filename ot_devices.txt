@@ -20,3 +20,4 @@
 0.0.0.0 eu-acr128.alphonso.tv
 0.0.0.0 eu-prov2.alphonso.tv
 0.0.0.0 eu-bl-server.alphonso.tv
+0.0.0.0 ^.alphonso.tv
