@@ -532,11 +532,9 @@
 0.0.0.0 widgets.trustedshops.com
 0.0.0.0 cs.dds.microsoft.com
 0.0.0.0.0 mobile.events.data.microsoft.com
-0.0.0.0.0 hace unos segundos
 0.0.0.0.0 spocs.getpocket.com
 0.0.0.0.0 contile.services.mozilla.com
 0.0.0.0.0 mobile.pipe.aria.microsoft.com
-0.0.0.0.0 hace un minuto
 0.0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0.0 userlocation.googleapis.com
 0.0.0.0.0 beacons.gcp.gvt2.com
